@@ -12,3 +12,8 @@ https://github.com/daominhquan/Thi_android_on_tap/blob/master/SourceCOde_on_tap_
 
 RecyclerView Adapter mẫu: 
 https://github.com/daominhquan/Thi_android_on_tap/blob/master/SourceCOde_on_tap_SQLite/app/src/main/java/com/example/thithu_sqlite/AdapterKhachHang.java
+
+
+
+Layout thêm khách hàng:
+https://github.com/daominhquan/Thi_android_on_tap/tree/master/SourceCOde_on_tap_SQLite/app/src/main/res/layout
