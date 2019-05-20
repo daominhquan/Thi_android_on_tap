@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         listItem_Spinner.add("Quận 10");
         listItem_Spinner.add("Quận 1");
         listItem_Spinner.add("Quận 5");
-        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, R.layout.support_simple_spinner_dropdown_item, listItem_Spinner);
+        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this,R.layout.support_simple_spinner_dropdown_item, listItem_Spinner);
         edt_address.setAdapter(arrayAdapter);
 
 
